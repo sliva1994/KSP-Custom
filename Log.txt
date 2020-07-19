@@ -1,0 +1,159 @@
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::DllMain(88): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetKeyStorageInterface(125): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPOpenProvider(279): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPOpenProvider(312): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPOpenProvider(330): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPOpenKey(417): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::CreateNewKeyObject(1040): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::CreateNewKeyObject(1060): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::CreateNewKeyObject(1087): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::CreateNewKeyObject(1103): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::CreateNewKeyObject(1128): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::CreateNewKeyObject(1139): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPOpenKey(441): Call function - Start workround
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPOpenKey(473): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPOpenKey(478): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(863): Call function : pszProperty= SmartCardKeyCertificate
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(864): Call function : cbOutput= 0
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(865): Call function : dwFlags= 0
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(889): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(167): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(177): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(906): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(937): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(978): Call function : pszProperty= SmartCardKeyCertificate
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1034): INFO ENCODING: X509_ASN_ENCODING
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1043): INFO Reporting Buffer Size: 1457
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1195): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1278): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(863): Call function : pszProperty= SmartCardKeyCertificate
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(864): Call function : cbOutput= 1457
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(865): Call function : dwFlags= 0
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(889): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(167): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(177): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(906): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(937): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(978): Call function : pszProperty= SmartCardKeyCertificate
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1034): INFO ENCODING: X509_ASN_ENCODING
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1055): INFO Returning certificate payload...
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1065): Call function -> pbOutput: 308205AD30820495A00302010202131C0000004A08605B7A2B2AAAE100000000004A300D06092A864886F70D0101050500304331123010060A0992268993F22C6401191602636F31133011060A0992268993F22C6401191603617567311830160603550403130F6175672D41442D5356522D43412D31301E170D3230303731393034343735395A170D3231303731393034343735395A304A31123010060A0992268993F22C6401191602636F31133011060A0992268993F22C6401191603617567310E300C060355040313055573657273310F300D0603550403130674657374303130820122300D06092A864886F70D01010105000382010F003082010A0282010100D4CB4A9032F946E63B958C02672DFCC75C3D922B092E1C9BED59089687493CBCAA9105199CB2A60BF645B738B8687BE58AFA687E57A5F95ECF99C9749CCDC92DD5A2FF564E88D73E85108C42C6D536F09C253A5E8379BF122004AEDE54A379A83165001C83AFD657A7931451F11095B6CAC35C20113A5CE20D0F3901D5CD8F5CE9F83C8DD798DE81C6A6E3623AE7D23997092851F0E403122BB777149F6E132B04A8F30E5D5C144AA889FEE1E705F2C5CB2A928693182F033983EFC320EFB56C1E7EF4AA484FCC05FACA629D1CE974F4EB6BC89D77DA8C37E9533CC5DB521A6A58162700E42C4882FA801D2596CDDE81B04C7918925F3981C341C1427642A71D0203010001A38202913082028D300E0603551D0F0101FF0404030205A0301706092B0601040182371402040A1E080055007300650072304406092A864886F70D01090F04373035300E06082A864886F70D030202020080300E06082A864886F70D030402020080300706052B0E030207300A06082A864886F70D0307301D0603551D0E04160414DA30B0A113C2877B374542768E43EF9B9641C5F9301F0603551D23041830168014159D76E375FF5ABAE0FB40F63BED56B23F5C35FD3081C70603551D1F0481BF3081BC3081B9A081B6A081B38681B06C6461703A2F2F2F434E3D6175672D41442D5356522D43412D312C434E3D41442D5356522C434E3D4344502C434E3D5075626C69632532304B657925323053657276696365732C434E3D53657276696365732C434E3D436F6E66696775726174696F6E2C44433D6175672C44433D636F3F63657274696669636174655265766F636174696F6E4C6973743F626173653F6F626A656374436C6173733D63524C446973747269627574696F6E506F696E743081BC06082B060105050701010481AF3081AC3081A906082B0601050507300286819C6C6461703A2F2F2F434E3D6175672D41442D5356522D43412D312C434E3D4149412C434E3D5075626C69632532304B657925323053657276696365732C434E3D53657276696365732C434E3D436F6E66696775726174696F6E2C44433D6175672C44433D636F3F634143657274696669636174653F626173653F6F626A656374436C6173733D63657274696669636174696F6E417574686F7269747930290603551D2504223020060A2B0601040182370A030406082B0601050507030406082B0601050507030230280603551D110421301FA01D060A2B060104018237140203A00F0C0D746573743031406175672E636F300D06092A864886F70D01010505000382010100732BD9F022604747682024B4FAF3E7AE5DB9AD58BA01F2C5059C624E550CE91A400DB79D947B6047D8EC239A4C11F1D72BF926461340A2581E7325765F76B083AE269FC8BECBBECDA0DF0EA5F3653565C2B05BFDE6B79F0B08FAC579F39567B8D32C463287B2956ECEDF5B22DC2576B16CFDABC2AB3257F4AC0407CD626E28F7301A71F8E8724E7ABDBCE5127211042411BA557666548F2011E047217450ECE158A778E2AB84EACA61B8046149238DAD5F6666E0E304D2CA8288AAFBAC1F2308B23EFCE730EF9ABEDDF9CCE392EBC44E4452377FCC0B6821B40FB0A9139F1EF386899CDF3B7A6C0501359EE08FADAE5666824A6BFB4EFFB4E1ACA513AD0FD839
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1195): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1278): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(863): Call function : pszProperty= Unique Name
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(864): Call function : cbOutput= 520
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(865): Call function : dwFlags= 0
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(889): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(167): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(177): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(906): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(937): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(978): Call function : pszProperty= Unique Name
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1151): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1195): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1260): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPGetKeyProperty(1278): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1417): Call function - cbInput: 10
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1418): Call function - dwFlags: 0
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1423): Call function - pbInput: 31003200330034000000
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1432): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1435): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1442): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(167): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(177): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1444): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1451): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1460): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1489): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1501): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SetBuildinKeyProperty(1400): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SetBuildinKeyProperty(1630): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SetBuildinKeyProperty(1634): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1516): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1417): Call function - cbInput: 10
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1418): Call function - dwFlags: 0
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1423): Call function - pbInput: 31003200330034000000
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1432): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1435): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1442): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(167): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(177): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1444): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1451): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1460): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1489): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1501): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SetBuildinKeyProperty(1400): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SetBuildinKeyProperty(1630): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SetBuildinKeyProperty(1634): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSetKeyProperty(1516): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3016): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3069): Call function - cbHashValue= 1457
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3070): Call function - cbSignaturee= 0
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3071): Call function - dwFlags= 2
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3076): Call function -> pbHashValue: 308205AD30820495A00302010202131C0000004A08605B7A2B2AAAE100000000004A300D06092A864886F70D0101050500304331123010060A0992268993F22C6401191602636F31133011060A0992268993F22C6401191603617567311830160603550403130F6175672D41442D5356522D43412D31301E170D3230303731393034343735395A170D3231303731393034343735395A304A31123010060A0992268993F22C6401191602636F31133011060A0992268993F22C6401191603617567310E300C060355040313055573657273310F300D0603550403130674657374303130820122300D06092A864886F70D01010105000382010F003082010A0282010100D4CB4A9032F946E63B958C02672DFCC75C3D922B092E1C9BED59089687493CBCAA9105199CB2A60BF645B738B8687BE58AFA687E57A5F95ECF99C9749CCDC92DD5A2FF564E88D73E85108C42C6D536F09C253A5E8379BF122004AEDE54A379A83165001C83AFD657A7931451F11095B6CAC35C20113A5CE20D0F3901D5CD8F5CE9F83C8DD798DE81C6A6E3623AE7D23997092851F0E403122BB777149F6E132B04A8F30E5D5C144AA889FEE1E705F2C5CB2A928693182F033983EFC320EFB56C1E7EF4AA484FCC05FACA629D1CE974F4EB6BC89D77DA8C37E9533CC5DB521A6A58162700E42C4882FA801D2596CDDE81B04C7918925F3981C341C1427642A71D0203010001A38202913082028D300E0603551D0F0101FF0404030205A0301706092B0601040182371402040A1E080055007300650072304406092A864886F70D01090F04373035300E06082A864886F70D030202020080300E06082A864886F70D030402020080300706052B0E030207300A06082A864886F70D0307301D0603551D0E04160414DA30B0A113C2877B374542768E43EF9B9641C5F9301F0603551D23041830168014159D76E375FF5ABAE0FB40F63BED56B23F5C35FD3081C70603551D1F0481BF3081BC3081B9A081B6A081B38681B06C6461703A2F2F2F434E3D6175672D41442D5356522D43412D312C434E3D41442D5356522C434E3D4344502C434E3D5075626C69632532304B657925323053657276696365732C434E3D53657276696365732C434E3D436F6E66696775726174696F6E2C44433D6175672C44433D636F3F63657274696669636174655265766F636174696F6E4C6973743F626173653F6F626A656374436C6173733D63524C446973747269627574696F6E506F696E743081BC06082B060105050701010481AF3081AC3081A906082B0601050507300286819C6C6461703A2F2F2F434E3D6175672D41442D5356522D43412D312C434E3D4149412C434E3D5075626C69632532304B657925323053657276696365732C434E3D53657276696365732C434E3D436F6E66696775726174696F6E2C44433D6175672C44433D636F3F634143657274696669636174653F626173653F6F626A656374436C6173733D63657274696669636174696F6E417574686F7269747930290603551D2504223020060A2B0601040182370A030406082B0601050507030406082B0601050507030230280603551D110421301FA01D060A2B060104018237140203A00F0C0D746573743031406175672E636F300D06092A864886F70D01010505000382010100732BD9F022604747682024B4FAF3E7AE5DB9AD58BA01F2C5059C624E550CE91A400DB79D947B6047D8EC239A4C11F1D72BF926461340A2581E7325765F76B083AE269FC8BECBBECDA0DF0EA5F3653565C2B05BFDE6B79F0B08FAC579F39567B8D32C463287B2956ECEDF5B22DC2576B16CFDABC2AB3257F4AC0407CD626E28F7301A71F8E8724E7ABDBCE5127211042411BA557666548F2011E047217450ECE158A778E2AB84EACA61B8046149238DAD5F6666E0E304D2CA8288AAFBAC1F2308B23EFCE730EF9ABEDDF9CCE392EBC44E4452377FCC0B6821B40FB0A9139F1EF386899CDF3B7A6C0501359EE08FADAE5666824A6BFB4EFFB4E1ACA513AD0FD839
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3111): Process Start import private key
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3132): Start Hash the data
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(219): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(225): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(238): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(248): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3159): Call function - dwHashDataSize= 20
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3160): Call function - pcbResult= 256
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3161): Call function - dwSignatureSize= 256
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3175): pbSignature: 4272F4CB34C06F1F440F9AE89D60D6409257D990E2BFA0AA25B51DB105BD00E23AB17DB1DE55B98CC39BC0E17C478C2BA9D09855FB4B9748E3F4BF72C2B683C1C98EDE8CE022A5AB70A0ACCE86036AACC896E8F550466FAC91BEA64A7AC449DA18340175323D2AF0388D823AAAF95264DB460D8480F3536C2F0F2DBA342C361B8B210040C209CA3FE9B8C91B186B7B4C92ECD297009115D5FB9A5FFEFF11914FF3419278483FB06C401E128DB1F7044784A6443669E392F13E47551918E8C64793992B26ABA0712CF61D24945FDBE50D5DEB0998BF48A1E54FDD402BB0A3AAA7C819D1C102D9C5652515D1384BB581AA9941058273527CB209E719AFE77BB48A
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::VerifySign(153): Start VerifySign
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(219): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(225): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(238): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(248): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::VerifySign(203): Verify Sign OK
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3182): Verify the signature success
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3016): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3069): Call function - cbHashValue= 1457
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3070): Call function - cbSignaturee= 256
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3071): Call function - dwFlags= 2
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3076): Call function -> pbHashValue: 308205AD30820495A00302010202131C0000004A08605B7A2B2AAAE100000000004A300D06092A864886F70D0101050500304331123010060A0992268993F22C6401191602636F31133011060A0992268993F22C6401191603617567311830160603550403130F6175672D41442D5356522D43412D31301E170D3230303731393034343735395A170D3231303731393034343735395A304A31123010060A0992268993F22C6401191602636F31133011060A0992268993F22C6401191603617567310E300C060355040313055573657273310F300D0603550403130674657374303130820122300D06092A864886F70D01010105000382010F003082010A0282010100D4CB4A9032F946E63B958C02672DFCC75C3D922B092E1C9BED59089687493CBCAA9105199CB2A60BF645B738B8687BE58AFA687E57A5F95ECF99C9749CCDC92DD5A2FF564E88D73E85108C42C6D536F09C253A5E8379BF122004AEDE54A379A83165001C83AFD657A7931451F11095B6CAC35C20113A5CE20D0F3901D5CD8F5CE9F83C8DD798DE81C6A6E3623AE7D23997092851F0E403122BB777149F6E132B04A8F30E5D5C144AA889FEE1E705F2C5CB2A928693182F033983EFC320EFB56C1E7EF4AA484FCC05FACA629D1CE974F4EB6BC89D77DA8C37E9533CC5DB521A6A58162700E42C4882FA801D2596CDDE81B04C7918925F3981C341C1427642A71D0203010001A38202913082028D300E0603551D0F0101FF0404030205A0301706092B0601040182371402040A1E080055007300650072304406092A864886F70D01090F04373035300E06082A864886F70D030202020080300E06082A864886F70D030402020080300706052B0E030207300A06082A864886F70D0307301D0603551D0E04160414DA30B0A113C2877B374542768E43EF9B9641C5F9301F0603551D23041830168014159D76E375FF5ABAE0FB40F63BED56B23F5C35FD3081C70603551D1F0481BF3081BC3081B9A081B6A081B38681B06C6461703A2F2F2F434E3D6175672D41442D5356522D43412D312C434E3D41442D5356522C434E3D4344502C434E3D5075626C69632532304B657925323053657276696365732C434E3D53657276696365732C434E3D436F6E66696775726174696F6E2C44433D6175672C44433D636F3F63657274696669636174655265766F636174696F6E4C6973743F626173653F6F626A656374436C6173733D63524C446973747269627574696F6E506F696E743081BC06082B060105050701010481AF3081AC3081A906082B0601050507300286819C6C6461703A2F2F2F434E3D6175672D41442D5356522D43412D312C434E3D4149412C434E3D5075626C69632532304B657925323053657276696365732C434E3D53657276696365732C434E3D436F6E66696775726174696F6E2C44433D6175672C44433D636F3F634143657274696669636174653F626173653F6F626A656374436C6173733D63657274696669636174696F6E417574686F7269747930290603551D2504223020060A2B0601040182370A030406082B0601050507030406082B0601050507030230280603551D110421301FA01D060A2B060104018237140203A00F0C0D746573743031406175672E636F300D06092A864886F70D01010505000382010100732BD9F022604747682024B4FAF3E7AE5DB9AD58BA01F2C5059C624E550CE91A400DB79D947B6047D8EC239A4C11F1D72BF926461340A2581E7325765F76B083AE269FC8BECBBECDA0DF0EA5F3653565C2B05BFDE6B79F0B08FAC579F39567B8D32C463287B2956ECEDF5B22DC2576B16CFDABC2AB3257F4AC0407CD626E28F7301A71F8E8724E7ABDBCE5127211042411BA557666548F2011E047217450ECE158A778E2AB84EACA61B8046149238DAD5F6666E0E304D2CA8288AAFBAC1F2308B23EFCE730EF9ABEDDF9CCE392EBC44E4452377FCC0B6821B40FB0A9139F1EF386899CDF3B7A6C0501359EE08FADAE5666824A6BFB4EFFB4E1ACA513AD0FD839
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3111): Process Start import private key
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3132): Start Hash the data
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(219): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(225): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(238): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(248): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3159): Call function - dwHashDataSize= 20
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3160): Call function - pcbResult= 256
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3161): Call function - dwSignatureSize= 256
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3175): pbSignature: 4272F4CB34C06F1F440F9AE89D60D6409257D990E2BFA0AA25B51DB105BD00E23AB17DB1DE55B98CC39BC0E17C478C2BA9D09855FB4B9748E3F4BF72C2B683C1C98EDE8CE022A5AB70A0ACCE86036AACC896E8F550466FAC91BEA64A7AC449DA18340175323D2AF0388D823AAAF95264DB460D8480F3536C2F0F2DBA342C361B8B210040C209CA3FE9B8C91B186B7B4C92ECD297009115D5FB9A5FFEFF11914FF3419278483FB06C401E128DB1F7044784A6443669E392F13E47551918E8C64793992B26ABA0712CF61D24945FDBE50D5DEB0998BF48A1E54FDD402BB0A3AAA7C819D1C102D9C5652515D1384BB581AA9941058273527CB209E719AFE77BB48A
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::VerifySign(153): Start VerifySign
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(219): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(225): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(238): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::GetHashData(248): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::VerifySign(203): Verify Sign OK
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPSignHash(3182): Verify the signature success
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(167): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateKeyHandle(177): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::DeleteKeyObject(1162): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::DeleteKeyObject(1174): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::DeleteKeyObject(1219): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::DeleteKeyObject(1243): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPFreeKey(1796): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPFreeProvider(351): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(132): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSPHelper.c::SampleKspValidateProvHandle(142): Call function 
+C:\Users\test02\Desktop\KeyStorageProviderSample_v2\CPP\Provider\SampleKSP.c::SampleKSPFreeProvider(372): Call function 
+20200719 1450030849: ReportResult(-1073741715)
